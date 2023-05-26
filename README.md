@@ -15,6 +15,7 @@
 - [1. GitHub Actions Workflows](#1-github-actions-workflows)
   - [배포된 React 앱에 GitHub Actions 적용하기](#배포된-react-앱에-github-actions-적용하기)
   - [프라이빗 레지스트리 이미지 배포하기 - GitHub Container Registry](#프라이빗-레지스트리-이미지-배포하기---github-container-registry)
+- [📖 References](#-references)
 - [💬 Contact](#-contact)
 
 ## 0. 준비사항
@@ -124,12 +125,14 @@ jobs:
 ```
 
 
-## 💬 Contact
+## 📖 References
 
 - [클라우드타입 Docs](https://docs.cloudtype.io/)
 
 - [클라우드타입 FAQ](https://help.cloudtype.io/guide/faq)
+  
+- [GitHub Actions Docs](https://docs.github.com/en/actions)
+  
+## 💬 Contact
 
 - [Discord](https://discord.gg/U7HX4BA6hu)
-
-
