@@ -20,6 +20,7 @@
 ## 0. 준비사항
 - [GitHub 계정](https://github.com/)
 - [클라우드타입 계정](https://cloudtype.io/)
+- [예제 소스 GitHub 저장소](https://github.com/cloudtype-examples/webinar-01)
 
 ## 1. GitHub Actions Workflows
 
