@@ -120,7 +120,7 @@ jobs:
             name: [서비스명]
             app: container
             options:
-              ports: 3000
+              ports: 8080
               image: ${{ steps.meta.outputs.tags }}
 ```
 
