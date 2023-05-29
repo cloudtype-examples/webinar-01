@@ -11,19 +11,19 @@
 # 클라우드타입 웨비나 #01 <br/> GitHub Actions를 활용한 CI/CD 파이프라인 구축하기 <!-- omit in toc -->
 
 ## 목차 <!-- omit in toc -->
-- [0. 준비사항](#0-준비사항)
-- [1. GitHub Actions Workflows](#1-github-actions-workflows)
+- [준비사항](#준비사항)
+- [GitHub Actions Workflows](#github-actions-workflows)
   - [배포된 React 앱에 GitHub Actions 적용하기](#배포된-react-앱에-github-actions-적용하기)
   - [프라이빗 레지스트리 이미지 배포하기 - GitHub Container Registry](#프라이빗-레지스트리-이미지-배포하기---github-container-registry)
 - [📖 References](#-references)
 - [💬 Contact](#-contact)
 
-## 0. 준비사항
+## 준비사항
 - [GitHub 계정](https://github.com/)
 - [클라우드타입 계정](https://cloudtype.io/)
 - [예제 소스 GitHub 저장소](https://github.com/cloudtype-examples/webinar-01)
 
-## 1. GitHub Actions Workflows
+## GitHub Actions Workflows
 
 ### 배포된 React 앱에 GitHub Actions 적용하기
 ```yaml
